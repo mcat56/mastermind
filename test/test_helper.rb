@@ -1,0 +1,5 @@
+require 'minitest/autorun'
+require 'minitest/pride'
+require 'generate_code'
+require 'game'
+require 'guess'

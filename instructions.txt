@@ -1,0 +1,1 @@
+I will have four colors in a specific sequence. You, the code breaker, must guess the colors and order. After each guess, I will inform you how many correct colors you have and how many correct positions you guessed. After feedback you make another guess until you guess the correct sequence.
